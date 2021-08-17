@@ -1,8 +1,0 @@
-a = input("ingrese A")
-b = input("ingrese B")
-c = input("ingrese C")
-d = input("ingrese D")
-print(d)
-print(c)
-print(b)
-print(a)
